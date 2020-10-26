@@ -1,2 +1,2 @@
-# Employee_App
-Employee_App manages the employee details
+# Employee-App
+Employee-App manages employee details - CRUD .
